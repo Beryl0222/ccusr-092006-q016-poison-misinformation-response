@@ -3,8 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "type": "module",
-  "description": "中毒误导信息响应领域资料",
+  "description": "中毒误导信息响应后端",
   "scripts": {
-    "test": "node --test"
+    "test": "node --test",
+    "start": "node src/server.js"
   }
 }
